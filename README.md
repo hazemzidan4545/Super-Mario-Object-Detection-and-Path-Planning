@@ -50,27 +50,17 @@ This project takes an **input image** of a Mario game scene and performs the fol
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/mario-game-planner.git
+git clone https://github.com/hazemzidan4545/Super-Mario-Object-Detection-and-Path-Planning.git
 cd mario-game-planner
 ```
 
-### 2. Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
+### 2. Download YOLOv8 weights:
 
-### 3. Download YOLOv8 weights:
-
-* Place the YOLOv8 `.pt` model (e.g., `yolov8m.pt`) in the project root or model directory.
+* Place the YOLOv8 `.pt` model (e.g., `yolov8s.pt`) in the project root or model directory.
 
 ---
 
-## 🛠️ Usage
-
-```bash
-python main.py --image assets/sample_mario_scene.png --model yolov8m.pt
-```
 
 ### Parameters:
 

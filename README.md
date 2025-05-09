@@ -101,21 +101,6 @@ Final Score: 10
 
 ---
 
-## 📁 Project Structure
-
-```
-mario-game-planner/
-│
-├── yolov8_detector.py      # YOLO detection logic
-├── grid_mapper.py          # Bounding box → grid conversion
-├── planner.py              # BFS pathfinding + strategy generation
-├── main.py                 # Entry point
-├── utils.py                # Helper functions
-├── assets/                 # Input images and model files
-└── requirements.txt        # Dependencies
-```
-
----
 
 ## 🧠 Algorithms Used
 

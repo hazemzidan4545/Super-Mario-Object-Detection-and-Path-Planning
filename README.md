@@ -1,6 +1,5 @@
 # Super Mario Game Planner using YOLOv8 & Image Processing
 Super Mario Path Planning from images
-Here’s a complete README for your Super Mario Game Planner project using YOLOv8 and Python image processing:
 
 ---
 

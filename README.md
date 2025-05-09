@@ -92,17 +92,11 @@ Given the following image:
 ![Sample Mario Scene]((https://github.com/user-attachments/assets/ae67375d-8242-4bcf-8c04-1afbd85fd24e)
 )
 
-The output might be:
+The output:
 
 ```
-Detected:
-- Mario at (1,3)
-- 3 coins
-- 1 enemy
-- Castle at (12,1)
-
-Action Sequence:
-→ → ↑ A → ↓ → →
+Victory Path: →↑↓→→A→↑→→↓→→→
+Final Score: 10
 ```
 
 ---

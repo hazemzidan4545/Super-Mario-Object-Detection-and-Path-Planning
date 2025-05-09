@@ -89,8 +89,8 @@ python main.py --image assets/sample_mario_scene.png --model yolov8m.pt
 
 Given the following image:
 
-![Sample Mario Scene]((https://github.com/user-attachments/assets/ae67375d-8242-4bcf-8c04-1afbd85fd24e)
-)
+![Sample Mario Scene](assets/![Test Image With All Cases](https://github.com/user-attachments/assets/ae67375d-8242-4bcf-8c04-1afbd85fd24e)
+
 
 The output:
 

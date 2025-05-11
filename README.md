@@ -82,7 +82,7 @@ Given the following image:
 
 
 The output:
-
+![Output](https://github.com/user-attachments/assets/a3d254f8-9811-4d18-a77b-8686856d5b63)
 ```
 Victory Path: →↑↓→→A→↑→→↓→→→
 Final Score: 10

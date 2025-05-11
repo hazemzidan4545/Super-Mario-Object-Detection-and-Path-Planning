@@ -1,9 +1,9 @@
-# Super Mario Game Planner using YOLOv8 & Image Processing
+# Super Mario Game Planner using YOLOv8 & OpenCv
 Super Mario Path Planning from images
 
 ---
 
-# 🕹️ Super Mario Game Planner using YOLOv8 & Image Processing
+# 🕹️ Super Mario Game Planner using YOLOv8 & OpenCv
 
 A Python-based project that uses **YOLOv8** for object detection and **path planning algorithms** to help Mario collect all coins and reach the castle on a 13×11 grid. The project simulates intelligent gameplay planning based solely on visual input.
 
